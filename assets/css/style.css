@@ -662,6 +662,10 @@ section {
   transform: scale(1.2);
 }
 
+.clients h1{
+  color: #ed5b5b;
+}
+
 @media (max-width: 768px) {
   .clients img {
     width: 40%;
