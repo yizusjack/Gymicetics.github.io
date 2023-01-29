@@ -621,6 +621,11 @@ section {
   font-size: 15px;
   margin: 0;
   padding: 0;
+  height: 89px;
+}
+
+.why-us li{
+  color: #aaaaaa;
 }
 
 .why-us .box:hover {
@@ -1449,4 +1454,8 @@ section {
   #footer .footer-top .footer-info {
     margin: -20px 0 30px 0;
   }
+}
+
+.jus{
+  text-align: justify;
 }
